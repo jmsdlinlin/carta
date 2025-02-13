@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carta para mi Manchitas</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="shortcut icon"
+      href="https://www.pinclipart.com/picdir/big/580-5803539_6-pixel-heart-pixel-art-heart-png-clipart.png"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <div class="envelope-container" onclick="toggleOpen()">
+      <div class="envelope">
+        <div class="back-flap"></div>
+        <div class="bottom-flap"></div>
+        <div class="left-flap"></div>
+        <div class="right-flap"></div>
+        <div class="top-flap"></div>
+      </div>
+      <div class="letter" id="letter-content"></div>
+    </div>
+
+    <script>
+      let frases = [];
+      let isOpen = false;
+      const letterContent = {
+        title: "Para mi Manchitas ❤️",
+      };
+
+      async function loadFrases() {
+        try {
+          const response = await fetch("data.json");
+          const data = await response.json();
+          frases = data.frases;
+          loadLetterContent();
+        } catch (error) {
+          console.error("Error cargando frases:", error);
+        }
+      }
+
+      function getFraseAleatoria() {
+        const indice = Math.floor(Math.random() * frases.length);
+        return frases[indice];
+      }
+
+      function loadLetterContent() {
+        const frase = getFraseAleatoria();
+        const letterDiv = document.getElementById("letter-content");
+        letterDiv.innerHTML = `
+                <h2>${letterContent.title}</h2>
+                <p>${frase.texto}</p>
+                <small>Frase #${frase.id}</small>
+            `;
+      }
+
+      function toggleOpen() {
+        const wasOpen = isOpen;
+        document.querySelector(".envelope").classList.toggle("open");
+        isOpen = !isOpen;
+
+        // Si estaba abierto y ahora se cierra, preparamos la siguiente frase
+        if (wasOpen && !isOpen) {
+          setTimeout(() => {
+            loadLetterContent(); // Carga nueva frase mientras está cerrado
+          }, 500); // Espera 500ms para asegurar que la animación de cierre ya empezó
+        }
+      }
+
+      // Cargar frases cuando la página se inicie
+      loadFrases();
+    </script>
+  </body>
+</html>

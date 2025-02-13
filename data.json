@@ -1,0 +1,512 @@
+{
+  "frases": [
+    {
+      "id": 1,
+      "texto": "Manchitas eres el amor de mi alma."
+    },
+    {
+      "id": 2,
+      "texto": "Manchitas mi vida es muy corta para amarte, por eso te amare en todas las que tenga."
+    },
+    {
+      "id": 3,
+      "texto": "Manchitas tu eres la mejor novia del universo."
+    },
+    {
+      "id": 4,
+      "texto": "Manchitas tu eres la mejor esposa del universo."
+    },
+    {
+      "id": 5,
+      "texto": "Manchitas tu eres la mejor mujer del universo."
+    },
+    {
+      "id": 6,
+      "texto": "Manchitas en mi futuro estas tu, y lo vas a estar."
+    },
+    {
+      "id": 7,
+      "texto": "Manchitas gracias por dejarme ser tu novio."
+    },
+    {
+      "id": 8,
+      "texto": "gracias por haberte dejado amar."
+    },
+    {
+      "id": 9,
+      "texto": "No me arrepiento de ese dia haber tomado el valor para pedirte ser tu novio."
+    },
+    {
+      "id": 10,
+      "texto": "No me arrepiento de haberte dado besos en el cachete en el taxi."
+    },
+    {
+      "id": 11,
+      "texto": "No me arrepiento de haberte elegido."
+    },
+    {
+      "id": 12,
+      "texto": "Manchitas eres mi sueño cumplido."
+    },
+    {
+      "id": 13,
+      "texto": "Eres mi deseo que le pedi a Dios mientras de pqueño."
+    },
+    {
+      "id": 14,
+      "texto": "Simplemente eres tu la mas maravillosa."
+    },
+    {
+      "id": 15,
+      "texto": "Eres grandiosa mi amor."
+    },
+    {
+      "id": 16,
+      "texto": "Te esfuerzas demasiado que eso nunca se te olvide."
+    },
+    {
+      "id": 17,
+      "texto": "Nunca has sido una opcion y nunca lo seras."
+    },
+    {
+      "id": 18,
+      "texto": "Eres mi luz en la oscuridad, tu eres mi guia en todos los males."
+    },
+    {
+      "id": 19,
+      "texto": "Manchitas dejarte sola y abandonarte nunca sera una opcion siempre estare contigo y para ti."
+    },
+    {
+      "id": 20,
+      "texto": "Eres mi personita favorita."
+    },
+    {
+      "id": 21,
+      "texto": "Tu vas a ser mi futura esposa y es mas ya te considero mi esposa y aun no nos hemos casado."
+    },
+    {
+      "id": 22,
+      "texto": "Solo tu y yo en un futuro juntos."
+    },
+    {
+      "id": 23,
+      "texto": "Mi mas grande meta es vivir contigo el resto de la vida y hacerte muy feliz."
+    },
+    {
+      "id": 24,
+      "texto": "Si algun dia se cae tu mundo dame la mano que aqui esta el mio."
+    },
+    {
+      "id": 25,
+      "texto": "Tu mi unica estrella en el universo."
+    },
+    {
+      "id": 26,
+      "texto": "Mi amor eres la mas hermosa del universo."
+    },
+    {
+      "id": 27,
+      "texto": "Mis ojos siempre te veran a ti."
+    },
+    {
+      "id": 28,
+      "texto": "Un dia seran puros besos y abrazos y no un te extraño."
+    },
+    {
+      "id": 29,
+      "texto": "Tu eres una niña preciosa manchitas."
+    },
+    {
+      "id": 30,
+      "texto": "A pesar de las peleas siempre voy a querer estar contigo."
+    },
+    {
+      "id": 31,
+      "texto": "Peleamos y todo pero yo sin ti no se que haria."
+    },
+    {
+      "id": 32,
+      "texto": "Mi vida no es perfecta si no estas tu en ella."
+    },
+    {
+      "id": 33,
+      "texto": "Tu eres mi desoro y siempre te voy a cuidar con mi vida alma y todo yo."
+    },
+    {
+      "id": 34,
+      "texto": "Manchitas yo por ti le daria mi alma al diablo."
+    },
+    {
+      "id": 35,
+      "texto": "Por ti nada pero absolutamente nada se me hace imposible."
+    },
+    {
+      "id": 36,
+      "texto": "Estos ojitos defectuosos siempre seran tuyos."
+    },
+    {
+      "id": 37,
+      "texto": "Mi inspiracion para seguir adelante eres tu manchitas."
+    },
+    {
+      "id": 38,
+      "texto": "Mi cosa favorita de ti es toda tu, toda tu eres mi favorita."
+    },
+    {
+      "id": 39,
+      "texto": "Por ti arriesgo hasta mi vida sin pensarlo dos veces."
+    },
+    {
+      "id": 40,
+      "texto": "Mi amor me haces super super feliz."
+    },
+    {
+      "id": 41,
+      "texto": "Te amo tanto pero tanto que nunca nadien ni nada podria entender mi amor por ti."
+    },
+    {
+      "id": 42,
+      "texto": "Tu me haces brillar mi amor."
+    },
+    {
+      "id": 43,
+      "texto": "En cada paso que des yo quiero estar contigo como tu estas en los mios."
+    },
+    {
+      "id": 44,
+      "texto": "Manchitas me encantas y me encanta todo lo que hago contigo."
+    },
+    {
+      "id": 45,
+      "texto": "El universo vera las locuras que hare por ti."
+    },
+    {
+      "id": 46,
+      "texto": "Si el mundo contra ti pues yo contra el mundo."
+    },
+    {
+      "id": 47,
+      "texto": "Un dia ire a tu casa a buscarte e irnos a vivir juntos."
+    },
+    {
+      "id": 48,
+      "texto": "No se como me soportas pero solo te pido que me soportes toda la vida."
+    },
+    {
+      "id": 49,
+      "texto": "Tus manchitas son una cosa preciosa y unica."
+    },
+    {
+      "id": 50,
+      "texto": "Tu barriguita es hermosa y un dia de estos tendra nuestro primer hijo dentro."
+    },
+    { "id": 51, "texto": "Siempre preferire arreglar las cosas contigo que dejarlas asi." },
+    {
+      "id": 52,
+      "texto": "Si tu sobrepiensas yo te sobre explico ."
+    },
+    {
+      "id": 53,
+      "texto": "Ya quiero contarle a nuestros hijos nuestra historia y como somos una pareja del 0,01%."
+    },
+    {
+      "id": 54,
+      "texto": "Yo un pinguinito y tu mi pinguinita."
+    },
+    {
+      "id": 55,
+      "texto": "11:11, Tu me deseo siempre, y el deseo es estar contigo toda la vida."
+    },
+    {
+      "id": 56,
+      "texto": "Disculpa mis celos es que me da miedo perderte como no no tienes idea manchitas."
+    },
+    {
+      "id": 57,
+      "texto": "Cuando me voy a dormir siempre te guardo un lugar en la cama y te imagino ahi a mi lado."
+    },
+    {
+      "id": 58,
+      "texto": "Para mi eres mas que pura y magnifica y eso eres."
+    },
+    {
+      "id": 59,
+      "texto": "Mirarte es soplar velas teniendo el deseo enfrente."
+    },
+    {
+      "id": 60,
+      "texto": "Acaso no te da frio dormir sin mi?."
+    },
+    {
+      "id": 61,
+      "texto": "Tu la dueña de mi pipi."
+    },
+    {
+      "id": 62,
+      "texto": "Mia Mia y SOLO MIA."
+    },
+    {
+      "id": 63,
+      "texto": "Nadien podria entender el amor que tengo por ti ni siquiera tu."
+    },
+    {
+      "id": 64,
+      "texto": "Tu media naranja."
+    },
+    {
+      "id": 65,
+      "texto": "Tu mi cafecito perfecto en las mañanas."
+    },
+    {
+      "id": 66,
+      "texto": "Amarte es como respirar como podria para."
+    },
+    {
+      "id": 67,
+      "texto": "Ni en tus peores dia dejaria de amarte ni aunque me apunten con un arma."
+    },
+    {
+      "id": 68,
+      "texto": "El futuro es incierto pero lo cierto es que en el vas a estar tu."
+    },
+    {
+      "id": 69,
+      "texto": "Manchitas te reconoceria entre todas las personitas del mundo."
+    },
+    {
+      "id": 70,
+      "texto": "Yo te amo sin metas, sin fronteras, sin limites, yo te amo y siempre sera asi mi amor."
+    },
+    {
+      "id": 71,
+      "texto": "Tu eres lo que mas pienso todos los Dias ya que llegaste una vez y nunca te deje salir."
+    },
+    {
+      "id": 72,
+      "texto": "La tierra gira, las estaciones cambian pero mi corazon permanece fijo en ti."
+    },
+    {
+      "id": 73,
+      "texto": "Tu eres lo que sueñas dicen y es verdad porque sueño que te amo y yo soy solo amor por vos."
+    },
+    {
+      "id": 74,
+      "texto": "Me encanta la carita que pones cuando te doy regalitos aun asi no sea mucho, te amo te amo."
+    },
+    {
+      "id": 75,
+      "texto": "Sabias que lloro porque pienso que no te doy todo el amor que mereces."
+    },
+    {
+      "id": 76,
+      "texto": "Eres la mas hermosa con o sin maquillaje."
+    },
+    {
+      "id": 77,
+      "texto": "Somos conexion pura."
+    },
+    {
+      "id": 78,
+      "texto": "Me encantas tus besos que me dejan loquito."
+    },
+    {
+      "id": 79,
+      "texto": "Tu eres mi primera vez en todo."
+    },
+    {
+      "id": 80,
+      "texto": "Solo vivo para ti."
+    },
+    {
+      "id": 81,
+      "texto": "Mi mayor miedo es que tu te canses de mi."
+    },
+    {
+      "id": 82,
+      "texto": "Solo te pido una cosa, quedate conmigo toda la vida."
+    },
+    {
+      "id": 83,
+      "texto": "Si fuera facil describirte lo haria con un millon de palabras."
+    },
+    {
+      "id": 84,
+      "texto": "Pero lo mas probable es que me falten vidas para poder describirte."
+    },
+    {
+      "id": 85,
+      "texto": "Y en todas mi vidas nunca podria describirte no podria describir lo maravillosa que eres."
+    },
+    {
+      "id": 86,
+      "texto": "Para el mundo tu eres una persona mas pero para mi tu eres el mundo."
+    },
+    {
+      "id": 87,
+      "texto": "Mi amor mia amor te amo mi amor."
+    },
+    {
+      "id": 88,
+      "texto": "Si fueras un rompecabezas tu seria mi hobbie favorito en la vida."
+    },
+    {
+      "id": 89,
+      "texto": "Y como te explico que cada vez que me abrazas lo unico que quiero es que nunca me sueltes."
+    },
+    {
+      "id": 90,
+      "texto": "Mi estado emocional depende de ti."
+    },
+    {
+      "id": 91,
+      "texto": "Ahora entiendo porque nunca quise nada con nadien, ya que yo era solo para ti."
+    },
+    { "id": 92, "texto": "No me gustan como tu, me gustas tu y si no es contigo no quiero nada con nadien." },
+    {
+      "id": 93,
+      "texto": "Eres mi niña linda de ojitos lindos."
+    },
+    {
+      "id": 94,
+      "texto": "Tu alma es algo que siempre voy a cuidar hasta si la mia esta rota."
+    },
+    {
+      "id": 95,
+      "texto": "Y si por tu amor tengo que sufrir, creeme que quiero morir en tus brazos."
+    },
+    {
+      "id": 96,
+      "texto": "Eres lo mas importante para mi."
+    },
+    {
+      "id": 97,
+      "texto": "Si tu fueraz bambu yo seria un oso panda."
+    },
+    {
+      "id": 98,
+      "texto": "Te amo muchisimo eres todo para mi."
+    },
+    {
+      "id": 99,
+      "texto": "Contigo no existe ninguna cosa que sea loco todo lo hago por ti."
+    },
+    {
+      "id": 100,
+      "texto": "Contigo estoy dispuesto a hacer todo y de todo sin peros ni pensandolo dos veces."
+    },
+    {
+      "id": 101,
+      "texto": "Hoy es solo un capítulo mas de todos los que tendremos."
+    },
+    {
+      "id": 102,
+      "texto": "Manchitas tu y yo tendremos la mejor historia de amor que jamas antes haya existido."
+    },
+    {
+      "id": 103,
+      "texto": "Eres lo que le da color y sentido a mi vida."
+    },
+    {
+      "id": 104,
+      "texto": "En las turbulencias de mi cabeza tu eres lo unico que sigue fluyendo y me hace calmar."
+    },
+    {
+      "id": 105,
+      "texto": "Cada cancion de amor me recuerda a ti."
+    },
+    {
+      "id": 106,
+      "texto": "No te rindas nunca mi amor un dia saldras de todo lo malo y yo te ayudare a que todo sea mas facil."
+    },
+    {
+      "id": 107,
+      "texto": "Eres una niña asombrosa y unica que eso jamas se te olvide mi amor."
+    },
+    {
+      "id": 108,
+      "texto": "Quiero que nuestra primera hija se llame como tu."
+    },
+    {
+      "id": 109,
+      "texto": "Mi amargada enojona que amo con todo mi ser sisisi."
+    },
+    {
+      "id": 110,
+      "texto": "Te asomaste por una ventana y las nubes taparon el sol porque tu brillabas mas que el."
+    },
+    {
+      "id": 111,
+      "texto": "Te acuerdas que te dije tu brillas mas que la luna y ella se escondio."
+    },
+    {
+      "id": 112,
+      "texto": "Me gusta pasar cada momento, cada segundo contigo."
+    },
+    { "id": 113, "texto": "Soy de usted hasta despues que me muera." },
+    { "id": 114, "texto": "Si existen mas vidas despues de esta prometo encontrate en cada una de ellas." },
+    {
+      "id": 115,
+      "texto": "TU MI PRIMER PENSAMIENTO DEL DIA."
+    },
+    {
+      "id": 116,
+      "texto": "TU MI ULTIMO PENSAMIENTO HASTA QUEDARME DORMIDO."
+    },
+    {
+      "id":
+       "texto": "Existen muchas cosas que quiero hacer y todas son contigo."
+    },
+    {
+      "id": 118,
+      "texto": "Quiero besarte cada momento del dia."
+    },
+    {
+      "id": 119,
+      "texto": "Tu eres la excepcion desde que te conoci."
+    },
+    {
+      "id": 120,
+      "texto": "Pqeuitas ama a manchitas, Manchitas ama a pequitas?."
+    },
+    {
+      "id": 121,
+      "texto": "Cada día es una oportunidad que aprovechare para amarte."
+    },
+    {
+      "id": 122,
+      "texto": "Te amoooo."
+    },
+    {
+      "id": 123,
+      "texto": "Te adoro."
+    },
+    {
+      "id": 124,
+      "texto": "Sin duda eres lo mejor que me ha pasado."
+    },
+    {
+      "id": 125,
+      "texto": "Por ti hasta matar no se me hace dificil."
+    },
+    {
+      "id": 126,
+      "texto": "Tu eres un tatuaje invisible que amo tener."
+    },
+    {
+      "id": 127,
+      "texto": "CHIPI CHIPI CHAPA CHAPA ajajaja."
+    },
+    {
+      "id": 128,
+      "texto": "Manchitas me gusta mas que linlin."
+    },
+    {
+      "id": 129,
+      "texto": "JUntos haremos una historia fenomenal."
+    },
+    {
+      "id": 130,
+      "texto": "De pequitas para manchitas."
+    }
+  ]
+}
